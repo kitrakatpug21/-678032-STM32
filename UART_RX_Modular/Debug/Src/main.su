@@ -1,0 +1,6 @@
+../Src/main.c:27:6:USART2_Init	4	static
+../Src/main.c:45:6:USART2_Transmit	16	static
+../Src/main.c:54:6:USART2_Receive	4	static
+../Src/main.c:61:6:USART2_Print	16	static
+../Src/main.c:71:5:__io_putchar	16	static
+../Src/main.c:77:5:main	8	static
