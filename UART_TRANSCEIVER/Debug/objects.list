@@ -1,0 +1,7 @@
+"./Src/LCD_4BIT.o"
+"./Src/LCD_8BIT.o"
+"./Src/delay.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401retx.o"
