@@ -1,0 +1,5 @@
+../Src/ADC.c:21:6:ADC_Init0	4	static
+../Src/ADC.c:38:6:ADC_Init1	4	static
+../Src/ADC.c:56:6:ADC_Regular_Start0	4	static
+../Src/ADC.c:62:6:ADC_Continuous_Start0	4	static
+../Src/ADC.c:69:10:ADC_Get_Result	4	static
