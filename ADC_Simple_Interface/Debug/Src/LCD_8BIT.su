@@ -1,0 +1,5 @@
+../Src/LCD_8BIT.c:10:6:LCD_Command	16	static
+../Src/LCD_8BIT.c:22:6:LCD_Character	16	static
+../Src/LCD_8BIT.c:34:6:LCD_Initialize	8	static
+../Src/LCD_8BIT.c:46:6:LCD_Print	16	static
+../Src/LCD_8BIT.c:55:6:LCD_Clear	8	static
