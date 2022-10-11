@@ -1,0 +1,5 @@
+../Src/USART2.c:12:6:USART2_Init	4	static
+../Src/USART2.c:31:6:USART2_Transmit	16	static
+../Src/USART2.c:39:6:USART2_Receive	4	static
+../Src/USART2.c:46:6:USART2_Print	16	static
+../Src/USART2.c:56:5:__io_putchar	16	static
