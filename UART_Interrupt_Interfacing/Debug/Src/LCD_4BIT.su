@@ -1,0 +1,5 @@
+../Src/LCD_4BIT.c:11:6:LCD4_Command	16	static
+../Src/LCD_4BIT.c:30:6:LCD4_Character	16	static
+../Src/LCD_4BIT.c:49:6:LCD4_Initialize	8	static
+../Src/LCD_4BIT.c:63:6:LCD4_Print	16	static
+../Src/LCD_4BIT.c:72:6:LCD4_Clear	8	static

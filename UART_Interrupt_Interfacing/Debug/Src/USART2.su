@@ -1,0 +1,7 @@
+F:/STM_06-09-22/Drivers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/USART2.c:12:6:USART2_Init	4	static
+../Src/USART2.c:31:6:USART2_Init_Intp	8	static
+../Src/USART2.c:54:6:USART2_Transmit	16	static
+../Src/USART2.c:62:6:USART2_Receive	4	static
+../Src/USART2.c:69:6:USART2_Print	16	static
+../Src/USART2.c:79:5:__io_putchar	16	static
